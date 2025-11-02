@@ -100,6 +100,7 @@ I got the one i use from here and there is a lot to chose from, soo dont rush it
 When you do, you have to download this 2 files inside of the voice folder, !onnx.! and !onnx.json! both are necesary.
 
 Now we download this python file, it is like the settings piper uses, i decided to keep the one from the mexican tutorial since it is easier to find where the important stuff is. 
+!https://codeberg.org/Hoomelab/Piper_TTS_Banco_de_Voz/src/branch/main/main.py!
 
 Now you can either put everything where you want on your pc or doit exactly as writen, i recomend to copy it by the letter first, so you can test if it works, and later modify everything if you want.
 
@@ -165,6 +166,6 @@ piper repository> !https://github.com/rhasspy/piper/releases!
 
 voice repository i used/linked> !https://huggingface.co/rhasspy/piper-voices/tree/main!
 
-hoomelab documentation on spanish !https://codeberg.org/Hoomelab/Piper_TTS_Banco_de_Voz< diferent website!
+hoomelab documentation on spanish !https://codeberg.org/Hoomelab/Piper_TTS_Banco_de_Voz! diferent website
 
 a-lillian windows documentation !https://github.com/a-lilian/STTTS-tutorial/blob/main/How%20to%20talk%20like%20a_lilian.md!
