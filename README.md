@@ -158,7 +158,6 @@ name of things like the python script or similar.
 
 This is the end of the guide for download and operate piper from linux, if you are from windows, just follow a-lillian documentation page, since it is already on english, they also have avaliable a custom version of a program >Curses< 
 that can be used like a UI for piper, while also generating subtitles for streaming or recording purposes, and also giving the option to record your own audio, and automatically get it writen into text, and then said by piper.
-!https://github.com/a-lilian/STTTS-tutorial/blob/main/How%20to%20talk%20like%20a_lilian.md!
 
 Sources or mentioned>
 
