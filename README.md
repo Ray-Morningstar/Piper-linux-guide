@@ -10,7 +10,7 @@ the yapping is recomended but not obligatory>
 
 Run !uname -m!
 
->Install piper with same infra-structure/numbers and letters and the end                           >https://github.com/rhasspy/piper/releases/tag/2023.11.14-2<
+Install piper with same infra-structure/numbers and letters and the end                           >https://github.com/rhasspy/piper/releases/tag/2023.11.14-2<
 
 Chose a voice and download its onnx and onnx.json files from this or other place                   >https://huggingface.co/rhasspy/piper-voices/tree/main<
 
